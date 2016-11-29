@@ -1,2 +1,2 @@
 # irisDataset
-machine used to classify different types of the iris flower
+machine learnin used to classify different types of the iris flower
